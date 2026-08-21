@@ -2,7 +2,6 @@ package com.taller.figuras;
 
 /**
  * Clase abstracta que representa una figura geométrica genérica.
- * Define el "contrato" que todas las figuras hijas deben cumplir:
  * calcular su área y su perímetro.
  */
 public abstract class Figure {

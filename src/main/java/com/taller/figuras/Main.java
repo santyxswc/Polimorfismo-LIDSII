@@ -3,12 +3,6 @@ package com.taller.figuras;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Aplicación cliente que demuestra el polimorfismo:
- * se guardan objetos de distintas subclases en una lista de Figure
- * y, al llamar a los mismos métodos (calculateArea/calculatePerimeter),
- * cada objeto se comporta según su propia implementación.
- */
 public class Main {
 
     public static void main(String[] args) {

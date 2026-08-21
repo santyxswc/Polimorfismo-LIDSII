@@ -8,13 +8,7 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-/**
- * Esta prueba demuestra el concepto central del taller:
- * un mismo mensaje (calculateArea / calculatePerimeter) enviado
- * sintácticamente igual a objetos de tipos distintos (Circle, Square,
- * Triangle) produce comportamientos diferentes según el tipo real
- * del objeto.
- */
+
 class PolymorphismTest {
 
     @Test
